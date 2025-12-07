@@ -1,0 +1,21 @@
+# Python venv  
+backend/venv/
+
+# Environment variables  
+backend/.env
+
+# Node modules  
+frontend/node_modules/
+
+# Next.js build output  
+frontend/.next/
+
+# Logs  
+*.log
+
+# Cache  
+__pycache__/
+*.pyc
+
+# Upload folders  
+uploads/

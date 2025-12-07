@@ -1,0 +1,44 @@
+[
+  {
+    "standard_topic": "Introduction to Machine Learning",
+    "closest_curriculum_topic": "Introduction to Machine Learning",
+    "similarity": 1.0,
+    "status": "Fully aligned"
+  },
+  {
+    "standard_topic": "Data Pre-processing and understanding",
+    "closest_curriculum_topic": "Introduction to Machine Learning",
+    "similarity": 0.51,
+    "status": "Missing"
+  },
+  {
+    "standard_topic": "Clustering",
+    "closest_curriculum_topic": "Clustering",
+    "similarity": 1.0,
+    "status": "Fully aligned"
+  },
+  {
+    "standard_topic": "Classification Techniques",
+    "closest_curriculum_topic": "Classification models",
+    "similarity": 0.81,
+    "status": "Fully aligned"
+  },
+  {
+    "standard_topic": "Bayesian Estimation",
+    "closest_curriculum_topic": "Linear Models",
+    "similarity": 0.51,
+    "status": "Missing"
+  },
+  {
+    "standard_topic": "Hidden Markov Models",
+    "closest_curriculum_topic": "Classification models",
+    "similarity": 0.59,
+    "status": "Missing"
+  },
+  {
+    "standard_topic": "Reinforcement learning",
+    "closest_curriculum_topic": "Introduction to Machine Learning",
+    "similarity": 0.52,
+    "status": "Missing"
+  }
+]
